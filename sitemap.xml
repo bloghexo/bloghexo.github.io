@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://bloghexo.github.io/2018/07/20/hello-world/</loc>
+    
+    <lastmod>2018-07-20T02:21:02.524Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://bloghexo.github.io/2018/07/20/Mac%E6%90%AD%E5%BB%BAhexo%E7%8E%AF%E5%A2%83%E5%B9%B6%E4%B8%8A%E4%BC%A0GitHub/</loc>
+    
+    <lastmod>2018-07-20T02:19:20.772Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://bloghexo.github.io/search/index.html</loc>
     
     <lastmod>2018-07-19T13:12:34.914Z</lastmod>
@@ -12,13 +26,6 @@
     <loc>https://bloghexo.github.io/about/index.html</loc>
     
     <lastmod>2018-07-19T13:11:05.105Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://bloghexo.github.io/2018/07/19/hello-world/</loc>
-    
-    <lastmod>2018-07-19T12:34:20.780Z</lastmod>
     
   </url>
   
