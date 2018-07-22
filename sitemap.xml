@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://bloghexo.github.io/2018/07/22/mac%E5%AE%89%E8%A3%85node%E5%92%8Cnpm/</loc>
+    
+    <lastmod>2018-07-22T11:45:44.477Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://bloghexo.github.io/about/index.html</loc>
+    
+    <lastmod>2018-07-22T11:42:24.643Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://bloghexo.github.io/categories/index.html</loc>
     
     <lastmod>2018-07-22T11:31:34.721Z</lastmod>
@@ -33,13 +47,6 @@
     <loc>https://bloghexo.github.io/search/index.html</loc>
     
     <lastmod>2018-07-19T13:12:34.914Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://bloghexo.github.io/about/index.html</loc>
-    
-    <lastmod>2018-07-19T13:11:05.105Z</lastmod>
     
   </url>
   
